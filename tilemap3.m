@@ -1,6 +1,6 @@
 function tilemap3(varargin)
 % TILEMAP3 - Maps between geographic coordinates and MODIS grids
-% 
+% converted from https://landweb.modaps.eosdis.nasa.gov/tilecalc
 % Usage: tilemap3(projection, pixel_size, direction, type, point_data)
 %
 % Parameters:
